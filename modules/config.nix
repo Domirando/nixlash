@@ -1,0 +1,6 @@
+{ ... }:
+{
+    config = {
+        name = "Nimadir nimadir";
+    };
+}
